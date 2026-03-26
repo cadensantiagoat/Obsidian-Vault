@@ -4,15 +4,25 @@ created: <% tp.date.now("MM/DD/YYYY, HH:mm") %>
 updated: <% tp.date.now("MM/DD/YYYY, HH:mm") %>
 start time: mm/dd/yyyy, 17:00
 end time: mm/dd/yyyy, 17:30
-# The Templater magic for creating/linking a dynamic person note:
-# This will prompt you with a selection or allow you to create a new person.
-# In the prompt, enter: [[Person Note Name]]
-people: [<% tp.file.cursor(1) %>]
+people: [<%*
+const person = await tp.system.prompt("Who are you meeting with?");
+if (person) {
+    const fileExists = tp.file.find_tfile(person);
+    if (!fileExists) {
+        const template = tp.file.find_tfile("new person template"); 
+        await tp.file.create_new(template, person);
+    }
+    tR += `"[[${person}]]"`;
+}
+%>]
 date: mm/dd/yyyy
-tags: [meeting, IRL]
+tags: 
+  - meeting
+  - IRL
 summary: Empty
 ---
 
+# <% tp.file.title %>
 
 ## Attendees
 <% tp.file.cursor(1) %>

@@ -1,6 +1,6 @@
 ---
-created: <% tp.date.now("MM/DD/YYYY, HH:mm") %>
-updated: <% tp.date.now("MM/DD/YYYY, HH:mm") %>
+created: 03/26/2026, 02:21
+updated: 03/26/2026, 02:21
 tags:
   - people
 birthday: 
@@ -11,7 +11,7 @@ aliases:
 
 > [!info] current age: `= choice(this.birthday, (date(today) - this.birthday).years + " years, " + (date(today) - this.birthday).months + " months, " + (date(today) - this.birthday).days + " days", "Unknown")`
 
-### Meetings with <% tp.file.title %>
+### Meetings with Lebron James
 
 ```dataview
 TABLE date AS "Meeting Date", summary AS "Subject"
