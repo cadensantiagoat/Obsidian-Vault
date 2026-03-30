@@ -15,7 +15,7 @@ aliases:
 
 
 ```dataview
-TABLE date AS "Meeting Date", summary AS "Subject"
+TABLE start-time AS "Meeting Date", summary AS "Subject"
 
 WHERE contains(people, this.file.link)
 

@@ -22,13 +22,8 @@ tags:
 summary: Empty
 ---
 
-# <% tp.file.title %>
-
-## Attendees
-<% tp.file.cursor(1) %>
-
 ## Agenda
 - 
 
 ## Notes
--
+- 
