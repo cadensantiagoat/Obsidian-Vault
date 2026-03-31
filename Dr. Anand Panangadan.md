@@ -1,17 +1,19 @@
 ---
-created: <% tp.date.now("MM/DD/YYYY, HH:mm") %>
-updated: <% tp.date.now("MM/DD/YYYY, HH:mm") %>
+created: 03/30/2026, 02:15
+updated: 03/30/2026, 02:15
 tags:
   - people
-birthday: 
-associates: 
-affiliated: 
-aliases: 
+  - Professor
+birthday:
+associates:
+affiliated: "[[California State University Fullerton]]"
+aliases:
+  - Dr. P
 ---
 
 > [!info] current age: `= choice(this.birthday, date(today) - this.birthday, "Unknown")`
 
-### Meetings with <% tp.file.title %>
+### Meetings with Dr. Anand Panangadan
 
 
 ```dataview
@@ -21,6 +23,3 @@ WHERE contains(people, this.file.link)
 
 SORT date DESC
 ```
-
-### Notes
-- 

@@ -13,3 +13,4 @@ aliases:
 ```dataview
 TABLE associates AS "Associates", location AS "Location"
 WHERE contains(affiliated, this.file.link)
+```
