@@ -1,4 +1,25 @@
-Github: https://github.com/cadensantiagoat/NBA-Fantasy-Optimization
+---
+tags:
+  - project
+  - database-engineering
+  - data-engineering
+  - snowflake
+status: Complete
+deadline:
+created: 04/01/2026, 01:17
+updated: 04/01/2026, 01:17
+---
+
+> [!summary] Project Goal
+> Fully automated ETL pipeline that Extracts statistics, Transforms data, and loads into a cloud database to show fantasy points.
+
+
+###  Next Actions
+- [ ] 
+
+###  Project Notes & Resources
+- Github: https://github.com/cadensantiagoat/NBA-Fantasy-Optimization
+- Github: https://github.com/cadensantiagoat/NBA-Fantasy-Optimization
 
 To recap, you have successfully:
 
