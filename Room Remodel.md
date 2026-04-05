@@ -18,5 +18,13 @@
 
 ### Carpet
 [Fluffy area rug (multiple sizes)](https://www.amazon.com/OLANLY-Bedroom-Machine-Washable-Aesthetic/dp/B0G3GWSZBJ/ref=sr_1_5?crid=2A7RNJCGWV08H&dib=eyJ2IjoiMSJ9.8y_efccY2lg87U61icCuIwjl-PdKVFxtVEv1F0tWJjoSwdIc_I0C4rzVipCbXNt-_WZJZux_zwLqY83eAyb7PdzpOLnZz8-y8L33GwkKKdxALCt9Ruota1MuzXsDzxF4g-izV1rCxqk9nKTe0PwBLAiEYNNo_L3cXPtAG-NcpDtKfD8_imrlI87Mac_GD1FRiNqTnRYn9nB4a8Y42GxEGhVwqXoUt8CDXyI9May_4ZHBoukBOdwR7NpLLL5CkjtfU_FS9y3Tt2Kkvjb39z3AQFRN4x4crcgvn5fkrIyqCL8.FKdRIhwamPFaYu8v5Ztv0GfYndmUszop-9MKXoa8jDY&dib_tag=se&keywords=carpet&qid=1775418064&sprefix=carpet%2Caps%2C244&sr=8-5&th=1)
-![[Pasted image 20260405124421.png]]
+![[Pasted image 20260405124421.png|284]]
 - 23.99 (4ft x 4ft)
+
+### Lamps
+[Small overhang lamp](https://www.amazon.com/EDISHINE-Minimalist-Standing-Temperatures-Adjustable/dp/B0F8PXFQF1/ref=sr_1_28?crid=3RA53B15J1WMO&dib=eyJ2IjoiMSJ9.hkqWMitfGBA4FPQfb-eMQpEE8gUkFhnxMa-B-Lp_aDhkPmFs95IgqQGZ1vPytm4HgpA_cdsJQk_D6q_4DYgdS2MSN1ceD0Rrvr4oT13a7SpKEtOHe-3nNReE_Q19wj8YYURvXY-xrpKju3TSXr0GvQ19QUGztTziD5Z9qj7qC_7rAciCC9YL7nLTQmRpNdZve_34fSxOUHbcpMo_JElphmX0viRxx2jkffxQ-MZR0IPGq48F71NB7Kaqa3RHMNUEZGDmT-H7AK3BwXPGzQznvXQ0jZ9dB7WwPU8dJlt10PM.-XxFxTTsGUkZiPiKwNG8cfJ-_YvmgpT0T5t2vhkxPuQ&dib_tag=se&keywords=floor%2Blamp%2Barc&qid=1775419226&sprefix=floor%2Blamp%2Bar%2Caps%2C299&sr=8-28&th=1)
+![[Pasted image 20260405130421.png|285]]
+- 39.99
+[Medium overhang lamp](https://www.amazon.com/Ambimall-Temperatures-Standing-Adjustable-Classroom/dp/B0C4DGFFCM/ref=sr_1_34?crid=3RA53B15J1WMO&dib=eyJ2IjoiMSJ9.hkqWMitfGBA4FPQfb-eMQpEE8gUkFhnxMa-B-Lp_aDhkPmFs95IgqQGZ1vPytm4HgpA_cdsJQk_D6q_4DYgdS2MSN1ceD0Rrvr4oT13a7SpKEtOHe-3nNReE_Q19wj8YYURvXY-xrpKju3TSXr0GvQ19QUGztTziD5Z9qj7qC_7rAciCC9YL7nLTQmRpNdZve_34fSxOUHbcpMo_JElphmX0viRxx2jkffxQ-MZR0IPGq48F71NB7Kaqa3RHMNUEZGDmT-H7AK3BwXPGzQznvXQ0jZ9dB7WwPU8dJlt10PM.-XxFxTTsGUkZiPiKwNG8cfJ-_YvmgpT0T5t2vhkxPuQ&dib_tag=se&keywords=floor%2Blamp%2Barc&qid=1775419491&sprefix=floor%2Blamp%2Bar%2Caps%2C299&sr=8-34&th=1)
+![[Pasted image 20260405131039.png|292]]
+- 29.99
