@@ -12,6 +12,9 @@ aliases:
 
 ### People at Untitled
 
-```dataview
+```
+dataview
 TABLE associates AS "Associates", location AS "Location"
 WHERE contains(affiliated, this.file.link)
+```
+
