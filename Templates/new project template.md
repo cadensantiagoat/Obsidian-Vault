@@ -1,8 +1,7 @@
 ---
 tags:
-  - project
 status: Active
-deadline: 
+deadline:
 created: <% tp.date.now("MM/DD/YYYY, HH:mm") %>
 updated: <% tp.date.now("MM/DD/YYYY, HH:mm") %>
 ---
