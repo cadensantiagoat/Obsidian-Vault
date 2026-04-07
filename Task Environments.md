@@ -5,6 +5,8 @@ topic: Task Environments
 date: 01/22/2026
 tags:
   - lecture-notes
+  - CPSC-481
+  - AI
 created: 03/30/2026, 02:03
 updated: 03/30/2026, 02:03
 ---

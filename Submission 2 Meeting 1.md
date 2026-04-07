@@ -11,7 +11,7 @@ tags:
   - meeting
   - zoom
   - CPSC-490
-summary: Empty
+summary: Initial questions to clarify what needs to be done in Submission 2
 ---
 
 ## Agenda

@@ -6,6 +6,8 @@ date: 02/03/2026
 tags:
   - lecture-notes
   - bayesian-networks
+  - CPSC-481
+  - AI
 created: 03/31/2026, 03:15
 updated: 03/31/2026, 03:15
 ---

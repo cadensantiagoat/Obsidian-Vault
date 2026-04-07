@@ -7,6 +7,7 @@ tags:
   - lecture-notes
   - AI
   - probabilities
+  - CPSC-481
 created: 03/31/2026, 03:11
 updated: 03/31/2026, 03:11
 ---
