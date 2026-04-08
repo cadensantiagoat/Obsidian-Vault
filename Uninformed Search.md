@@ -12,7 +12,7 @@ updated: 04/07/2026, 17:39
 ---
 
 > [!summary] Lecture Summary
-> *(Write a 1-2 sentence summary of this lecture after class)*
+> *Dove into the search algorithm properties of DFS and BFS. Space Complexity is an issue for both algorithms but BFS runs out of memory more often.*
 
 ###  Materials
 *(Drag and drop your PDF slides or syllabus below this line)*
@@ -27,12 +27,25 @@ updated: 04/07/2026, 17:39
 - Optimal: Guaranteed to find the least cost path?
 - Time Complexity
 - Space Complexity
+
 #### **Depth-First Tree Search** 
 - has redundant paths where some states can be reached in more than one way
+- Frontier
+	- Stack, LIFO queue
+- Explored
+	- Set, for efficiency
+Initialize frontier with initial state
+Initialize explored to empty
+Loop do 
+	IF the frontier is empty RETURN FAILURE
+	Choose top node from frontier and remove it
+	IF top node is goal RETURN SUCCESS
+	Add node to explored
+	expand node, pushing resulting nodes to the frontier only if not already on frontier or explored
 - What if there is a loop? 
 	- it would cause an infinite loop
 	- in implementation you would run out of memory (**stack overflow**)	
-- **Properties:**
+- **Depth-First Search Properties:**
 		![[Pasted image 20260407175727.png|335]]
 	- What nodes does DFS expand?
 		- Some left/right prefix of the tree
@@ -53,6 +66,7 @@ updated: 04/07/2026, 17:39
 			IF top node is goal RETURN SUCCESS
 			Add node to explored
 			expand node, pushing resulting nodes to the frontier only if not already on frontier or explored
+
 #### **Breadth-First Tree Search**
 - Frontier
 	- **Queue, FIFO queue**
@@ -65,6 +79,18 @@ FOR every child-node of front-node
 	IF child-node not already on frontier or explored
 		IF child-node is goal RETURN SUCCESS
 		push child-node to frontier
+- **Breadth-First Search Properties**
+	- What nodes does BFS expand?
+		- Processes all nodes above shallowest solution
+		- Let depth of shallowest solution be s
+		- Search takes time O(b$^{s}$)
+	- How much **space** does the frontier take?
+		- Has roughly the last tier, so O(b$^{s}$)
+	- Is it **complete**?
+		- s must be finite if a solution exists, so yes!
+	- Is it **optimal**?
+		- Yes, if costs are all equal
+
 
 
 
