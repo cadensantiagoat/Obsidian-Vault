@@ -44,7 +44,14 @@ updated: 04/07/2026, 17:39
 		- Is it **optimal**?
 			- No, it finds the "leftmost" solution, regardless of depth or cost
 	- **Depth-first Tree search with loop checking**
-		- 
+		Initialized frontier with initial state
+		Initialize explored to empty
+		Loop do
+			IF the frontier is empty RETURN FAILURE
+			Choose top node from frontier and remove it
+			IF top node is goal RETURN SUCCESS
+			Add node to explored
+			expand node, pushing resulting nodes to the frontier only if not already on frontier or explored
 
 
 
