@@ -22,28 +22,29 @@ updated: 04/07/2026, 17:39
 ---
 
 ###  Notes
--  **Search Algorithm Properties**
-	- Complete: Guaranteed to find a solution if one exists?
-	- Optimal: Guaranteed to find the least cost path?
-	- Time Complexity
-	- Space Complexity
-- **Depth-first tree search** has redundant paths where some states can be reached in more than one way
-	- What if there is a loop? 
-		- it would cause an infinite loop
-		- in implementation you would run out of memory (**stack overflow**)	
-	- **Properties:**
+#### **Search Algorithm Properties**
+- Complete: Guaranteed to find a solution if one exists?
+- Optimal: Guaranteed to find the least cost path?
+- Time Complexity
+- Space Complexity
+#### **Depth-First Tree Search** 
+- has redundant paths where some states can be reached in more than one way
+- What if there is a loop? 
+	- it would cause an infinite loop
+	- in implementation you would run out of memory (**stack overflow**)	
+- **Properties:**
 		![[Pasted image 20260407175727.png|335]]
-		- What nodes does DFS expand?
-			- Some left/right prefix of the tree
-			- could process the whole tree
-			- if m is finite, takes **time** O(b$^{m}$)
-		- How much **space** does the frontier take?
-			- Only has nodes on path to root + siblings for each: so, O(bm)
-		- Is it **complete**?
-			- State space can have loops, or could be infinite, so **no**
+	- What nodes does DFS expand?
+		- Some left/right prefix of the tree
+		-  could process the whole tree
+		-  if m is finite, takes **time** O(b$^{m}$)
+	- How much **space** does the frontier take?
+		-  Only has nodes on path to root + siblings for each: so, O(bm)
+	- Is it **complete**?
+		-  State space can have loops, or could be infinite, so **no**
 		- Is it **optimal**?
 			- No, it finds the "leftmost" solution, regardless of depth or cost
-	- **Depth-first Tree search with loop checking**
+- **Depth-first Tree search with loop checking**
 		Initialized frontier with initial state
 		Initialize explored to empty
 		Loop do
@@ -52,6 +53,18 @@ updated: 04/07/2026, 17:39
 			IF top node is goal RETURN SUCCESS
 			Add node to explored
 			expand node, pushing resulting nodes to the frontier only if not already on frontier or explored
+#### **Breadth-First Tree Search**
+- Frontier
+	- **Queue, FIFO queue**
+- Explored
+	- **Set,** for efficiency
+IF the frontier is empty RETURN FAILURE
+Choose front-node from frontier and remove it
+Add front-node to explored
+FOR every child-node of front-node
+	IF child-node not already on frontier or explored
+		IF child-node is goal RETURN SUCCESS
+		push child-node to frontier
 
 
 
