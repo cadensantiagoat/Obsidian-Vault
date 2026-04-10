@@ -43,6 +43,9 @@ What are the valid actions in a given state?
 ![[Pasted image 20260409181601.png|325]]
 ![[Pasted image 20260409181649.png|505]]
 
+What is the result state after an action?
+![[Pasted image 20260409182539.png]]
+
 ---
 
 > [!question] Confusions & Questions
