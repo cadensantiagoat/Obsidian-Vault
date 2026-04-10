@@ -8,7 +8,7 @@ tags:
   - AI
   - CPSC-481
 created: 04/07/2026, 17:39
-updated: 04/07/2026, 17:39
+updated: 04/09/2026, 17:30
 ---
 
 > [!summary] Lecture Summary
@@ -57,7 +57,7 @@ Loop do
 		-  State space can have loops, or could be infinite, so **no**
 		- Is it **optimal**?
 			- No, it finds the "leftmost" solution, regardless of depth or cost
-- **Depth-first Tree search with loop checking**
+- Depth-first Tree search with loop checking
 		Initialized frontier with initial state
 		Initialize explored to empty
 		Loop do
@@ -90,7 +90,13 @@ FOR every child-node of front-node
 		- s must be finite if a solution exists, so yes!
 	- Is it **optimal**?
 		- Yes, if costs are all equal
+	- Memory requirement is a killer for any depth 10 or greater
 
+#### **Iterative Deepening**
+Idea: get DFS's space advantage with BFS's time/ shallow-solution advantages
+- Run a DFS with depth limit 1. If no solution...
+- Run a DFS with depth limit 2. if no solution...
+- Run a DFS with depth limit 3. ....
 
 
 
