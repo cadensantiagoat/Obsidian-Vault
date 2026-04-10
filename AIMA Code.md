@@ -39,12 +39,19 @@ Operators: one for sliding each square in each of four directions
 - Better, one for moving the blank square in each of four directions
 	possible_actions = ['UP', 'DOWN', LEFT', 'RIGHT'] # Python List
 
-What are the valid actions in a given state?
+**What are the valid actions in a given state?**
 ![[Pasted image 20260409181601.png|325]]
 ![[Pasted image 20260409181649.png|505]]
 
-What is the result state after an action?
-![[Pasted image 20260409182539.png]]
+**What is the *result* state after an action?**
+![[Pasted image 20260409183149.png|332]]
+![[Pasted image 20260409183313.png|399]]
+- "new_state = list(state)" is written this way because types in python are immutable
+	- if for example state was already of list type, you would have to write:
+		"new_state = state.copy()" instead of
+		"new_state = state"
+		because python does assignment by reference instead of by value
+
 
 ---
 
