@@ -12,7 +12,7 @@ updated: 04/09/2026, 17:30
 ---
 
 > [!summary] Lecture Summary
-> *Dove into the search algorithm properties of DFS and BFS. Space Complexity is an issue for both algorithms but BFS runs out of memory more often.*
+> *Dove into the search algorithm properties of DFS and BFS. Space Complexity is an issue for both algorithms but BFS runs out of memory more often. Iterative Deepening is the best of both worlds where search space is large and depth of solution is unknown.*
 
 ###  Materials
 *(Drag and drop your PDF slides or syllabus below this line)*
@@ -93,11 +93,17 @@ FOR every child-node of front-node
 	- Memory requirement is a killer for any depth 10 or greater
 
 #### **Iterative Deepening**
-Idea: get DFS's space advantage with BFS's time/ shallow-solution advantages
+![[Pasted image 20260409175217.png]]
+**Idea:** get DFS's space advantage with BFS's time/ shallow-solution advantages
 - Run a DFS with depth limit 1. If no solution...
 - Run a DFS with depth limit 2. if no solution...
 - Run a DFS with depth limit 3. ....
-
+Isn't this wastefully redundant?
+- Generally most work happens in the lowest level searched, so not so bad!
+- **Time Complexity:** 1+b+b$^{2}$ +...b$^{d}$ = O(b$^{d}$)
+	- Same as BFS!
+	- But has the space complexity benefits of DFS
+In general, iterative deepening is the **preferred uninformed search method** when the search **space is large** and the **depth** of the solution is **not known**
 
 
 ---
