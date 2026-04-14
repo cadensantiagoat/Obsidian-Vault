@@ -4,6 +4,7 @@ updated: 03/30/2026, 02:15
 tags:
   - people
   - Professor
+  - CSUF
 birthday:
 associates:
 affiliated: "[[California State University Fullerton]]"
