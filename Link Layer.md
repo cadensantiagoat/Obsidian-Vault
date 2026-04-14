@@ -29,4 +29,4 @@ updated: 04/14/2026, 11:12
 > - 
 
 ### Action Items & Homework
-- [ ] 
+- [ ] Handouts till 26
