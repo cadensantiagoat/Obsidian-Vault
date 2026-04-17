@@ -36,3 +36,4 @@ Try to get further in the same amount of iterations or be in the same spot with 
 - can even change the number of iterations and compare
 	- 100 vs. 1000 vs. 10000
 	- best amount of iterations depending on the users time restriction
+- reference the paper in the repo to see what algorithms they are using
