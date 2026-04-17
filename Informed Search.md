@@ -65,6 +65,12 @@ updated: 04/16/2026, 17:33
 	- Path planning
 	- Resource planning problems
 - Creating Heuristics
+	Admissible Heuristics:
+		- most of the work in solving hard search problems optimally is in coming up with admissible heuristics
+		- often are solutions to relaxed problems, where new actions are available
+	![[Pasted image 20260416182152.png|267]]
+	
+
 
 ---
 
