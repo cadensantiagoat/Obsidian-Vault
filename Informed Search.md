@@ -69,7 +69,14 @@ updated: 04/16/2026, 17:33
 		- most of the work in solving hard search problems optimally is in coming up with admissible heuristics
 		- often are solutions to relaxed problems, where new actions are available
 	![[Pasted image 20260416182152.png|267]]
-	
+	8 Puzzle (in slides):
+		Heuristic: Number of misplaced tiles
+			- h(n) = 7 so the cost of the heuristic is 7. 
+			- Using heuristic along with A* makes significant improvement compared to uninformed search
+		Heuristic: Manhattan Distances
+			- h(start) = 3+1+2+... = 18
+			- h(n) = 2+0+4+2+1+2+3+1 = 15
+			- Significantly reduces time due to following more rules than the misplaced tiles heuristic
 
 
 ---
