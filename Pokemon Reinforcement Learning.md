@@ -8,7 +8,7 @@ updated: 04/16/2026, 19:40
 ---
 
 > [!summary] Project Goal
-> *(What does "done" look like for this project?)*
+> Comparing the progress of the AI when changing the reward strategies.
 
 ###  Next Actions
 - [ ] update reward system to our needs
@@ -31,9 +31,5 @@ Try to get further in the same amount of iterations or be in the same spot with 
 2. Total evolution amount
 	- count how many times the AI evolves in the run
 	- encourages leveling up the same pokemon
-
-#### **Notes**
-- can even change the number of iterations and compare
-	- 100 vs. 1000 vs. 10000
-	- best amount of iterations depending on the users time restriction
-- reference the paper in the repo to see what algorithms they are using
+#### **Final Approach?**
+We can follow above criteria but we should head the advice [[Dr. Anand Panangadan|Dr. P]] gave us in our [[Final Project Office Hours|office hour session]] with him.
