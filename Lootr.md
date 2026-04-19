@@ -12,7 +12,7 @@ updated: 04/18/2026, 18:04
 
 ###  Next Actions
 - [ ] need to know what the absolute maximum and minimum playable values are in the physics engine and set the Zod to those limits.
-- [ ] setup Neon Postgres Database
+- [x] setup Neon Postgres Database
 - [ ] Implement actual ArcGIS REST API POST request in services/arcgis.service.js
 - [ ] implement Human Delta API request in services/human-delta.service.js
 
