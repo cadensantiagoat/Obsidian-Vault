@@ -11,7 +11,7 @@ updated: 04/18/2026, 18:04
 > Take a photo of an object and turn it into a game
 
 ###  Next Actions
-- [ ] 
+- [ ] need to know what the absolute maximum and minimum playable values are in the physics engine and set the Zod to those limits.
 
 ###  Project Notes & Resources
 #### **Tech Stack**
