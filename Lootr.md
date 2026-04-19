@@ -14,10 +14,6 @@ updated: 04/18/2026, 18:04
 - [ ] need to know what the absolute maximum and minimum playable values are in the physics engine and set the Zod to those limits.
 - [x] setup Neon Postgres Database
 - [x] Implement actual ArcGIS REST API POST request in services/arcgis.service.js
-
-#### Possible Additions for Backend
-- [ ] Edit 
-
 ###  Project Notes & Resources
 #### **Tech Stack**
 - react native
