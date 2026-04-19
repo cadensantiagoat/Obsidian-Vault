@@ -16,6 +16,9 @@ updated: 04/18/2026, 18:04
 - [ ] Implement actual ArcGIS REST API POST request in services/arcgis.service.js
 - [ ] implement Human Delta API request in services/human-delta.service.js
 
+#### Possible Additions for Backend
+- [ ] Edit 
+
 ###  Project Notes & Resources
 #### **Tech Stack**
 - react native
