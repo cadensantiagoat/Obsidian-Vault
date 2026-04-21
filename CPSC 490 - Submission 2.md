@@ -8,5 +8,8 @@
 	- currently has TMDB and Spotify listed
 	- include APIs for books?
 - [ ] Double check that everything you have written matches with the teams goals and views
+## Metrics
+- Week 12: completed on week 11
+- Week 11: completed on week 13
 ## Bookmark
 - 
