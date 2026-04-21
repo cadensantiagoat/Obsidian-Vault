@@ -1,7 +1,7 @@
 ---
 tags:
   - fully-hacks-2026
-status: Active
+status: Complete
 deadline:
 created: 04/18/2026, 18:04
 updated: 04/18/2026, 18:04
