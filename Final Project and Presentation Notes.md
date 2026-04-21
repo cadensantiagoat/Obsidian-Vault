@@ -50,5 +50,6 @@ updated: 04/16/2026, 16:03
 
 ### Action Items & Homework
 - [ ] 15-20 second video of Use Cases
-- [ ] Requirements View for presentation
+- [x] Requirements View for presentation
+	- [ ] Double check if DB admin is a role needed in requirements view doc
 - [ ] Implementation View
