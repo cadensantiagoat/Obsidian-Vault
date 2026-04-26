@@ -1,4 +1,5 @@
 ## Fancy
 - [Hoshinoya](https://hoshinoresorts.com/EN/hotels/0000000007/plans/0000000652/rooms/0000000018?checkIn=2027%2F01%2F26&stay=2&a=2&b=0&c=0&d=0) (non traditional but modern)
 - [Seikoro Ryokan](https://www.agoda.com/seikoro-ryokan/hotel/kyoto-jp.html?countryId=3&finalPriceView=1&isShowMobileAppPrice=false&cid=1592349&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2027-03-2&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=USD&isFreeOccSearch=false&tag=IKSeikoro&los=2&searchrequestid=b0608e48-c61a-421c-9e9e-44fa4f6160c4&ds=Fb6e24%2B1s8Tms8Gm) (Traditional)
+- [Ryokan Seryo](https://www3.yadosys.com/Reserve/ja/room/detail/147/dfgmedhdhkhffffghggcdadn/all/00001)
 ## Budget
