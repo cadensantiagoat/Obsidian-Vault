@@ -28,6 +28,14 @@ updated: 04/16/2026, 16:03
 - Expected to show 15-20 second video of execution of two Use Cases
 	has to follow Use Case (Steps the user has to take)
 
+### Classroom connection
+1. Find Local IP Address on the router
+	mac: Open Terminal and type `ifconfig | grep inet` or check your Network Settings.
+	
+	**This IP address is the URL your classmates will type into their browsers.** (e.g., they will go to `http://192.168.1.15/login.php`).
+1. Open Firewall
+	**If you are on Mac:** Go to System Settings > Network > Firewall, and temporarily disable it for the presentation, or explicitly allow incoming connections for Docker/Apache.
+
 #### **Use Case**
 - shows main success scenario and alternative paths
 - sequence diagrams that definitely show success scenario and maybe errors or alternatives 
