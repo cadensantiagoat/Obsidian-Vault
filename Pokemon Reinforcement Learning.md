@@ -1,6 +1,8 @@
 ---
 tags:
   - AI
+  - CPSC-481
+  - project
 status: Active
 deadline:
 created: 04/16/2026, 19:40
