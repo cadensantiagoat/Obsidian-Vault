@@ -41,6 +41,9 @@ updated: 04/28/2026, 17:36
 - uses little memory
 - can get stuck in local maxima
 - if algorithm gets stuck, restart the algorithm from a random point to escape local maxima
+#### Simulated Annealing
+- set a high temperature at first and slowly lower the temperature
+	- high temperature means you are more likely to jump out of a local maxima
 
 
 ---
