@@ -28,10 +28,19 @@ updated: 04/28/2026, 17:36
 - 8-queens problem
 	![[Pasted image 20260428175619.png|159]]
 	objective function: count the amount of attacking pairs
+	no. of neighbors = 7 x 8 = 56
+	size of state space = 8$^{8}$ = 2$^{24}$
+	2$^{10}$ ~ 1,000
+	2$^{20}$ ~ 1m
+	2$^{30}$ ~ 1B
 	
 #### Local Search
 - objective function of my neighbors is nearby what mine is
 - Look at the optimization function of my neighbors that are better states than me
+#### Hill-Climbing Search
+- uses little memory
+- can get stuck in local maxima
+- if algorithm gets stuck, restart the algorithm from a random point to escape local maxima
 
 
 ---
