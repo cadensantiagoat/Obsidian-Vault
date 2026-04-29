@@ -20,7 +20,18 @@ updated: 04/28/2026, 17:36
 ---
 
 ###  Notes
-- 
+#### Optimization Problems
+- assign a number to every state (objective function) and find the state with the highest value (global maximum)
+	- generic term "optimization problem"
+	- highest score "maximization problem"
+	- lowest score "minimization problem"
+- 8-queens problem
+	![[Pasted image 20260428175619.png|159]]
+	objective function: count the amount of attacking pairs
+	
+#### Local Search
+- objective function of my neighbors is nearby what mine is
+- Look at the optimization function of my neighbors that are better states than me
 
 
 ---
