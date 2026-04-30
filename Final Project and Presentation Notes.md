@@ -59,6 +59,7 @@ updated: 04/16/2026, 16:03
 
 > [!question] Confusions & Questions
 > - Don't use Extends or Include in diagram?
+> - How do we give users roles within our database?
 
 ### Action Items & Homework
 - [ ] 15-20 second video of Use Cases
