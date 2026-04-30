@@ -49,6 +49,9 @@ updated: 04/16/2026, 16:03
 	4 Response to Client (sending client to homepage)
 - Database
 	3.  Responds to authentication (probably more exchanges as well)
+#### Requirements view
+- make them testable
+- show non functional requirements and make them testable
 
 
 ---
