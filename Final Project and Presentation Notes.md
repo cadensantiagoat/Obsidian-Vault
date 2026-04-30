@@ -52,6 +52,7 @@ updated: 04/16/2026, 16:03
 #### Requirements view
 - make them testable
 - show non functional requirements and make them testable
+- should only cover non functional requirements while use case/testing view shows functional requirements
 
 
 ---
