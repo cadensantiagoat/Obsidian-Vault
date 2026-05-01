@@ -53,6 +53,9 @@ updated: 04/16/2026, 16:03
 - make them testable
 - show non functional requirements and make them testable
 - should only cover non functional requirements while use case/testing view shows functional requirements
+#### Implementation View
+- show patterns for instance /src or /views and stuff like that
+	See if we need to implement something similar
 
 
 ---
