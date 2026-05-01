@@ -69,3 +69,5 @@ updated: 04/16/2026, 16:03
 - [x] Requirements View for presentation
 	- [ ] Double check if DB admin is a role needed in requirements view doc
 - [ ] Implementation View
+- [ ] add summary at the end
+	Treat like a CDR (whatever that means)
