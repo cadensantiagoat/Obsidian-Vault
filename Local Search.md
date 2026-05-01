@@ -5,6 +5,7 @@ topic:
 date: 04/28/2026
 tags:
   - lecture-notes
+  - CPSC-481
 created: 04/28/2026, 17:36
 updated: 04/28/2026, 17:36
 ---
@@ -26,7 +27,7 @@ updated: 04/28/2026, 17:36
 	- highest score "maximization problem"
 	- lowest score "minimization problem"
 - 8-queens problem
-	![[Pasted image 20260428175619.png|159]]
+	![[Pasted image 20260428175619.png|256]]
 	objective function: count the amount of attacking pairs
 	no. of neighbors = 7 x 8 = 56
 	size of state space = 8$^{8}$ = 2$^{24}$
@@ -42,8 +43,14 @@ updated: 04/28/2026, 17:36
 - can get stuck in local maxima
 - if algorithm gets stuck, restart the algorithm from a random point to escape local maxima
 #### Simulated Annealing
-- set a high temperature at first and slowly lower the temperature
+- set a high temperature (T) at first and slowly lower the temperature
 	- high temperature means you are more likely to jump out of a local maxima
+- looks like hill climbing
+- Search with Simulated Annealing
+	![[Pasted image 20260430173753.png|370]]
+- Simulated Annealing Example
+	![[Pasted image 20260430174109.png|374]]
+	
 
 
 ---

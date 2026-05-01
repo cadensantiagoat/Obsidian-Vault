@@ -5,6 +5,7 @@ credits: "3"
 status: Active
 tags:
   - AI
+  - course-dashboard
 ---
 
 
