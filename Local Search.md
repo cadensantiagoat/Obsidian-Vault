@@ -53,7 +53,8 @@ updated: 04/28/2026, 17:36
 	What if T = 0?
 	exp(-2/0) = exp(-inf) = 1/exp(inf) = 0
 #### Genetic Algorithms
-
+- 8 Queens Problem w/ Genetic Algorithms
+	
 
 
 ---
