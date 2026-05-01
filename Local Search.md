@@ -50,6 +50,8 @@ updated: 04/28/2026, 17:36
 	![[Pasted image 20260430173753.png|370]]
 - Simulated Annealing Example
 	![[Pasted image 20260430174109.png|374]]
+	What if T = 0?
+	exp(-2/0) = exp(-inf) = 1/exp(inf) = 0
 	
 
 
