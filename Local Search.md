@@ -54,7 +54,7 @@ updated: 04/28/2026, 17:36
 	exp(-2/0) = exp(-inf) = 1/exp(inf) = 0
 #### Genetic Algorithms
 - 8 Queens Problem w/ Genetic Algorithms
-	
+	By preferring the high fitness values, the average fitness values as generations keep increasing should be going up
 
 
 ---
