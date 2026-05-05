@@ -56,6 +56,7 @@ updated: 04/16/2026, 16:03
 #### Implementation View
 - show patterns for instance /src or /views and stuff like that
 	See if we need to implement something similar
+- Presentation layer, business layer, etc.
 
 
 ---
