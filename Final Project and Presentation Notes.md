@@ -57,6 +57,8 @@ updated: 04/16/2026, 16:03
 - show patterns for instance /src or /views and stuff like that
 	See if we need to implement something similar
 - Presentation layer, business layer, etc.
+#### Use case view
+- no admin using the system
 
 
 ---
@@ -72,3 +74,23 @@ updated: 04/16/2026, 16:03
 - [ ] Implementation View
 - [ ] add summary at the end
 	Treat like a CDR (whatever that means)
+
+- [ ] get rid of admin role if present
+- [ ] clean up slides
+- [ ] make the deployment view more high level
+- [ ] no such use case as log in and logout. remove from everything
+- [ ] view is not a use case
+- [ ] think of system level stuff, low level stuff is viewing or logging in is software
+
+#### Requirements view
+- non functional requirements
+- use cases are the functional requirements so they don't need to be there
+- web page flow
+- access controls
+- response times, scalability, maintainability
+#### Deployment view
+- show many clients on the system (how many you want your system to support)
+#### Role Based Access
+- make sure it's implemented in the right layers
+- application layer should query database for roles and compare and verify but application layer should not know the roles
+- for instance have role be a variable populated by a database query for a role
