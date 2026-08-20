@@ -1,16 +1,16 @@
 ---
-professor: "[[Dr. Yun Tian]]"
-term: Spring 2026
-credits: "3"
+professor: "[[Marc Velasco]]"
+term: Fall 2026
+credits:
 status: Active
 tags:
   - course-dashboard
-  - CPSC-471
+  - CPSC-491
 ---
 
 ###  Syllabus & Quick Links
 *(Drag your main syllabus PDF here or link to your canvas portal)*
-- ![[syllabus_cpsc471_Spring 2026-02-3.pdf]]
+- ![[CPSC491-02 Fall 2026.pdf]]
 
 ---
 

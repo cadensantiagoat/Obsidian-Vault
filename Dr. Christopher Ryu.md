@@ -1,20 +1,20 @@
 ---
-created: 04/07/2026, 00:34
-updated: 04/07/2026, 00:34
+created: 08/20/2026, 12:32
+updated: 08/20/2026, 12:32
 tags:
   - people
+  - CSUF
+  - CPSC-488
   - Professor
-  - CPSC-490
 birthday:
 associates:
 affiliated: "[[California State University Fullerton]]"
 aliases:
-  - Professor Velasco
 ---
 
 > [!info] current age: `= choice(this.birthday, date(today) - this.birthday, "Unknown")`
 
-### Meetings with Untitled
+### Meetings with Christopher Ryu
 
 
 ```dataview
