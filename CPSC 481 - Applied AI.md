@@ -6,6 +6,7 @@ status: Active
 tags:
   - AI
   - course-dashboard
+  - CPSC-481
 ---
 
 
