@@ -11,6 +11,8 @@ tags:
 ###  Syllabus & Quick Links
 *(Drag your main syllabus PDF here or link to your canvas portal)*
 - ![[2026 Fall CPSC 476 Edge AI - Principles and Practices syllabus version1.pdf]]
+- ### Textbook
+![[AI at the Edge - full book - compressed.pdf]]
 
 ---
 
