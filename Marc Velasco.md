@@ -5,6 +5,7 @@ tags:
   - people
   - Professor
   - CPSC-490
+  - CPSC-491
 birthday:
 associates:
 affiliated: "[[California State University Fullerton]]"
