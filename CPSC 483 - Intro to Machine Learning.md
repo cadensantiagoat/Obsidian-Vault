@@ -1,5 +1,5 @@
 ---
-professor:
+professor: "[[Dr. Anli Ji]]"
 term:
 credits:
 status: Active

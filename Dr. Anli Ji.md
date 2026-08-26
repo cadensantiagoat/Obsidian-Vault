@@ -8,6 +8,7 @@ birthday:
 associates:
 affiliated: "[[California State University Fullerton]]"
 aliases:
+  - Dr. Ji, Dr. Annie, Dr. Anli
 ---
 
 > [!info] current age: `= choice(this.birthday, date(today) - this.birthday, "Unknown")`
@@ -24,4 +25,5 @@ SORT date DESC
 ```
 
 ### Notes
-- 
+- include course title when emailing her
+	- send email from fullerton account (obviously)
