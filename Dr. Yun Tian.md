@@ -5,6 +5,7 @@ tags:
   - people
   - Professor
   - CSUF
+  - CPSC-471
 birthday:
 associates:
 affiliated: "[[California State University Fullerton]]"
