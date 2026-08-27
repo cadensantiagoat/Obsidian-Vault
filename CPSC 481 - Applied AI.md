@@ -2,7 +2,7 @@
 professor: "[[Dr. Anand Panangadan]]"
 term: Spring 2026
 credits: "3"
-status: Active
+status: Completed
 tags:
   - AI
   - course-dashboard

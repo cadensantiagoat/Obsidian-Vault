@@ -2,7 +2,7 @@
 professor: "[[Dr. Christopher Ryu]]"
 term: Fall 2026
 credits:
-status: Active
+status: Completed
 tags:
   - course-dashboard
   - CPSC-488
