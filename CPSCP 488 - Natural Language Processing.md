@@ -11,6 +11,10 @@ tags:
 ###  Syllabus & Quick Links
 *(Drag your main syllabus PDF here or link to your canvas portal)*
 - ![[CPSC 488_SYL.pdf]]
+- pop quizzes normally based on what professor just asked
+	- open notes?
+- ATTEND EVERY CLASS
+
 
 ---
 
