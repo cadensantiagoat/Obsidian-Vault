@@ -109,6 +109,38 @@ updated: 08/25/2026, 17:57
 			- small representation of the whole problem
 	- New Goal: a model that **generalizes** beyond the dataset and that is not influenced by the noise in the dataset
 		- Upper Bound and Lower Bound
+	- Overfitting and Underfitting
+		- Underfitting 
+			- too simple
+			- misses patterns
+			- high bias
+		- Overfitting
+			- too complex
+			- fits noise
+			- poor generalization
+- Criteria for Choosing Models
+	- Inductive bias
+		- the <u>set of assumptions</u> that define the model selction criteria of a ML algorithm 
+			- necessary for learning (beyond the dataset)
+			- otherwise we could only perform memorization
+	- Two types of bias that we can use:
+		- Restriction bias
+			- constrains the set of models that the algorithm will consider during the learning process
+			- picking one study method and sticking to that one method
+		- Preference bias
+			- guides the learning algorithm to prefer certain models over others
+			- preference for a version of the type of study method we chose
+				- leading a study group or simply being in the study group to be taught
+- Types of Machine Learning
+	- Supervised Learning
+		- always a fact or a label given
+		- classification
+		- regression
+	- Reinforcement Learning
+	- Unsupervised Learning
+		- don't let machine know the facts
+		- the machine will group them together on it's own
+			- **clustering**
 
 
 ---
