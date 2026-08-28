@@ -49,6 +49,7 @@ updated: 08/28/2026, 14:04
 - <u>Definition</u>: **Data Science** is the science which uses computer science, statistics and machine learning, visualization and human-computer interactions to collect, clean, integrate, analyze visualize, interact with **data** to create **data products**. 
 - *data product*: an insight or toll created out of raw data that can be used to improve decision making
 - Examples of data -> data products
+	- Player statistics -> team strategy
 
 
 ---
