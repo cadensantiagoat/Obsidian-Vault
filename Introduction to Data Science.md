@@ -15,13 +15,14 @@ updated: 08/28/2026, 14:04
 
 ###  Materials
 *(Drag and drop your PDF slides or syllabus below this line)*
-- 
+- ![[CPSC375W01L01_Intro.pdf]]
 
 
 ---
 
 ###  Notes
-- 
+#### <b><u>Introductions</u></b>
+- email etiquette is to wait 48 hours before sending a follow up
 
 
 ---

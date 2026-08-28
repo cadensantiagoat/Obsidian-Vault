@@ -10,7 +10,7 @@ tags:
 
 ###  Syllabus & Quick Links
 *(Drag your main syllabus PDF here or link to your canvas portal)*
-- 
+- ![[CPSC375SyllabusFall2026Sood.pdf]]
 
 ---
 
