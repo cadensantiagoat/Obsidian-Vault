@@ -23,6 +23,11 @@ updated: 08/28/2026, 14:04
 ###  Notes
 #### <b><u>Introductions</u></b>
 - email etiquette is to wait 48 hours before sending a follow up
+- class participation 
+	- oral participation
+	- classwork tab (google drive)
+	- written participation
+	- discussion forum
 
 
 ---
