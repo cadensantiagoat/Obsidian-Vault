@@ -44,12 +44,36 @@ updated: 08/28/2026, 14:04
 	- 2nd visualization (Tabular style)
 	- 3rd visualization (Bar graph)
 		- easy to see through visualization that Tunnel was the most popular option on Twitter
-##### Data Science
+#### <b><u>Data Science</u></b>
 - intersection of Computer Science, Statistics, Domain Knowledge
 - <u>Definition</u>: **Data Science** is the science which uses computer science, statistics and machine learning, visualization and human-computer interactions to collect, clean, integrate, analyze visualize, interact with **data** to create **data products**. 
 - *data product*: an insight or toll created out of raw data that can be used to improve decision making
 - Examples of data -> data products
 	- Player statistics -> team strategy
+##### The Data Science Process
+1. Storage
+2. Formatting, Cleaning / Data integration
+3. Exploratory Data Analysis
+4. Data analysis
+5. Data Visualization
+#### <b><u>Big Data</u></b>
+- Data science and Big Data
+	- Big data surpasses the storage capacity of your device
+	- 3 Vs
+		1. Volume: Raw Data
+		2. Velocity: Rate at which data comes in
+		3. Variety: Data types (web clicks, sensor data,...)
+	- Big data's biggest problem is how you access the data because in the present day, getting enough storage isn't the issue
+		- Do we know what to do with all the data
+- How much data?
+	- CERN's Large Hadron Collider generates 15 PB a year
+- Format of data
+	- textual
+	- audio files
+	- images
+	- videos
+	data that is not textual is more difficult to format
+
 
 
 ---
