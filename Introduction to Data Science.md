@@ -6,6 +6,7 @@ date: 08/28/2026
 tags:
   - lecture-notes
   - CPSC-375
+  - code-word
 created: 08/28/2026, 14:04
 updated: 08/28/2026, 14:04
 ---
@@ -28,6 +29,10 @@ updated: 08/28/2026, 14:04
 	- classwork tab (google drive)
 	- written participation
 	- discussion forum
+- <u>CODEWORD:</u> Basketball 
+- Exams:
+	- there will be programming questions
+		- syntax will not be penalized
 
 
 ---
