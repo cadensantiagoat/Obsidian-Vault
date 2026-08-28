@@ -33,6 +33,22 @@ updated: 08/28/2026, 14:04
 - Exams:
 	- there will be programming questions
 		- syntax will not be penalized
+#### <b><u>Intro to Data Science</u></b>
+##### Example application (I-710 Freeway)
+- South Pasadena, Alhambra, and Pasadena had community preferences which results in the gap of the 710
+	- also first data visualization we did
+	- Challenges
+		- cleaning downloaded data
+			- <u>Pre-processing</u> data
+	- Present Results
+	- 2nd visualization (Tabular style)
+	- 3rd visualization (Bar graph)
+		- easy to see through visualization that Tunnel was the most popular option on Twitter
+##### Data Science
+- intersection of Computer Science, Statistics, Domain Knowledge
+- <u>Definition</u>: **Data Science** is the science which uses computer science, statistics and machine learning, visualization and human-computer interactions to collect, clean, integrate, analyze visualize, interact with **data** to create **data products**. 
+- *data product*: an insight or toll created out of raw data that can be used to improve decision making
+- Examples of data -> data products
 
 
 ---
