@@ -35,6 +35,28 @@ updated: 08/31/2026, 13:54
 	- Field has existed for more than 50 years
 	- this class focuses on the <u>neural networks</u>
 		- mimics the function of the human brain
+	- computation tasks are parallel in neurons
+	- each choice has it's own weight which is then summed and passed through a function
+- Machine Learning
+	- broad and vague term but we focus on neural network in the class
+- Deep Learning
+	- another vague term but we don't use it in this course
+- Edge AI 
+	- Edge (local computation) + AI 
+##### Why Edge AI?
+- Some applications we prefer Edge AI over Cloud AI
+	- bandwidth limitation 
+	- latency
+	- cost concerns
+	- reliability
+		- don't know if connection will be stable
+	- privacy
+		- who can access your data
+- ROI (return on investment)
+	- Good enough
+- Good enough career (vs. Cloud AI)
+- Cheap playground
+	- more accessible and affordable
 
 
 ---
