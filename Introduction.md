@@ -11,7 +11,7 @@ updated: 08/31/2026, 13:54
 ---
 
 > [!summary] Lecture Summary
-> *(Write a 1-2 sentence summary of this lecture after class)*
+> *Introducing the ideas of Edge AI, key terms and its benefits*
 
 ###  Materials
 *(Drag and drop your PDF slides or syllabus below this line)*
