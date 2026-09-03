@@ -82,8 +82,28 @@ updated: 08/26/2026, 19:39
 		 ![[Pasted image 20260902202235.png|556]]
 		- generate numbers based on probability distribution
 			- how to generate probability distribution?
-				- What is the mean?
-				- What is the variance?
+				- Once you find these two every distribution can be explained
+					- What is the mean?
+					- What is the variance?
+##### Fundamental Probability Rules
+	- CONDITIONAL PROBABILITY (need to know)
+	- JOINT PROBABILITY (need to know)
+##### Probability, likelihood, and odds
+- Probability
+	- can only be calculated when you have a well defined model
+- Likelihood
+	- used to understand the model given data then you can use the model to find the probability
+	- P(X|**Θ**) (we use this one more)
+	- L(**Θ**|X) 
+##### Probability distribution
+- used for discrete variables
+##### Gaussian Distribution
+- used for continuous variables
+- if you still want to use probability distribution then you have to set a range
+	- ex. 0-1
+##### Bayesian Approach and bayes' rule
+- AI and generation heavily relies on Bayes' Rule
+
 
 
 
