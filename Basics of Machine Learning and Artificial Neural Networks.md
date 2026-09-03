@@ -79,6 +79,11 @@ updated: 08/26/2026, 19:39
 ##### Random Variables and Probabilities
 - RANDOM VARIABLES (need to know)
 	- Random numbers
+		 ![[Pasted image 20260902202235.png|556]]
+		- generate numbers based on probability distribution
+			- how to generate probability distribution?
+				- What is the mean?
+				- What is the variance?
 
 
 
