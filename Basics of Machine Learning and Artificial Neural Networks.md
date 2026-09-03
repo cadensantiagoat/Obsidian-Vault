@@ -146,6 +146,8 @@ updated: 08/26/2026, 19:39
 3. Learn the model using:
 	- Gradient
 	- parameter update rule
+#### <b><u>Backpropagation</u></b>
+- allows you to do very small incremental updates
 
 
 
