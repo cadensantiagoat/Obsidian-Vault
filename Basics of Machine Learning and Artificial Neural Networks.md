@@ -23,12 +23,33 @@ updated: 08/26/2026, 19:39
 ---
 
 ###  Notes
-- 
+#### <b><u>Machine Learning</u></b>
+##### Definition 
+- Study of methods to develop a system that can learn
+	- ML is core element of almost all AI systems
+##### Key components in machine learning
+- Learning goal and algorithm
+	- find patterns, relationships, functions, or policies
+	- learning algorithm selected based on learning goal
+- Input *data* or *experience* (datasets)
+	- *Data* with or without label
+		- data with label (class, target) is called "**training dataset**"
+	- *Experience* from an environment
+	there are some jobs where there only task is to create datasets
+- Output: knowledge in different forms
+	- patterns
+	- classes
+	- clusters 
+	- etc... 
+##### Types of Data for machine learning
+- Training datasets
+	- datasets collected and categorized based on expert knowledge
 
 
 ---
 
 > [!question] Confusions & Questions
+> - Why are training datasets useful in machine learning?
 > - 
 
 ### Action Items & Homework
