@@ -34,6 +34,7 @@ updated: 08/26/2026, 19:39
 - Input *data* or *experience* (datasets)
 	- *Data* with or without label
 		- data with label (class, target) is called "**training dataset**"
+			- everyone wants **labeled data** because it is **generally more powerful**
 	- *Experience* from an environment
 	there are some jobs where there only task is to create datasets
 - Output: knowledge in different forms
@@ -44,6 +45,8 @@ updated: 08/26/2026, 19:39
 ##### Types of Data for machine learning
 - Training datasets
 	- datasets collected and categorized based on expert knowledge
+##### taxonomy of machine learning
+
 
 
 ---
