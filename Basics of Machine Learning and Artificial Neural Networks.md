@@ -103,6 +103,32 @@ updated: 08/26/2026, 19:39
 	- ex. 0-1
 ##### Bayesian Approach and bayes' rule
 - AI and generation heavily relies on Bayes' Rule
+- The more data you get the easier it is to get Posterior probability
+- Bayesian Influence: Getting as much data as you can to calculate Posterior Probability
+- 
+#### <b><u>Uncertainty and Entropy</u></b>
+- Entropy is a measure of the uncertainty associated with a random variable
+##### shannon's Entropy
+- measured in binary bits
+- The **expected** (average) number of bits needed to encode an outcome from the random variable X
+- Entropy relevant for *Classification*
+	- we are interested in knowing how uncertain the data is
+- Large entropy more certain, smaller entropy is certain
+- Logarithm function grows very smoothly
+	- also turns multiplication into addition which is simpler, thus we use it a lot
+##### Cross-entropy
+- Cross-entropy
+	- trying to understand how much two probability distributions deviate
+	- uses model
+	- larger value they divert more, the smaller the value the more identical
+	- If they are exactly the same then it has 0 cross-entropy
+- Kullback-Leibler divergence
+	- another way to calculate cross-entropy
+#### <b><u>Supervised Learning for Regression</u></b>
+##### Gradient Descent method
+- everything we do uses gradient descent
+#### <b><u>Artificial Neural Networks</u></b>
+parameter
 
 
 
