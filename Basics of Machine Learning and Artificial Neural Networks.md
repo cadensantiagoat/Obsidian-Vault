@@ -127,8 +127,25 @@ updated: 08/26/2026, 19:39
 #### <b><u>Supervised Learning for Regression</u></b>
 ##### Gradient Descent method
 - everything we do uses gradient descent
+![[Pasted image 20260902213030.png]]
 #### <b><u>Artificial Neural Networks</u></b>
-parameter
+##### Popular activation functions
+- Sigmoid
+	- ideal but takes too long
+- ReLU (most popular activation function)
+	- calculates max value
+	- default activation function in pytorch library
+#### <b><u>Training Artificial Neural Networks</u></b>
+##### The recipe for supervised learning
+1. Give a training data set
+2. Define the objective function
+	- determine if you want to maximize or minimize
+	- most cases in ML is looking to minimize due to minimizing cost function in business
+	- take benefit function and multiply by -1 to get minimum function
+	- define log loss function to make curve smoother
+3. Learn the model using:
+	- Gradient
+	- parameter update rule
 
 
 
