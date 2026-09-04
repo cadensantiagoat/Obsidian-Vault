@@ -23,6 +23,13 @@ updated: 09/03/2026, 17:31
 ###  Notes
 - 5 People per group max
 - Can work alone
+- Need a metric between models to compare them
+	- all models need to compare:
+		- accuracy
+		- F1 score
+		- etc... 
+- Each member needs to pick a different model for Phase 3
+- Can change models in the middle of the project but in the final report you have to talk about the final model you chose
 
 
 ---
