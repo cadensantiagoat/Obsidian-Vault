@@ -17,6 +17,7 @@ updated: 08/28/2026, 14:04
 ###  Materials
 *(Drag and drop your PDF slides or syllabus below this line)*
 - ![[CPSC375W01L01_Intro.pdf]]
+- ![[CPSC375_W02L02_IntroToPython 1.pdf]]
 
 
 ---
@@ -73,6 +74,9 @@ updated: 08/28/2026, 14:04
 	- images
 	- videos
 	data that is not textual is more difficult to format
+#### <b><u>Some special values</u></b>
+- Method chaining
+	- m1().m2().m3()...
 
 
 
