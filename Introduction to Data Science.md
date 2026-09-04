@@ -82,4 +82,5 @@ updated: 08/28/2026, 14:04
 > - 
 
 ### Action Items & Homework
-- [ ] 
+- [ ] AAB (above and beyond points) what does .ipynb stand for?
+	- Interactive Python Notebook
