@@ -65,6 +65,30 @@ training a classification (or regression) model using both labeled and unlabeled
 - rotation prediction
 - "jigsaw puzzle"
 - colorization 
+##### self-supervised learning vs. others
+- vs. supervised learning 
+	- supervised requires human-labeled data
+	- self-supervised learning generates targets from data itself
+- vs. unsupervised learning
+	- unsupervised discovers pattern or structure
+	- self-supervised creates a specific prediction task
+- vs. semi-supervised learning
+	- semi-supervised learning uses both labeled and unlabeled datasets
+	- self-supervised learning doesn't need labeled data at all and creates supervision directly from the unlabeled data itself
+#### <b><u>Reinforcement Learning</u></b>
+- **agent** gathers information through interacting with the environment
+- learns from surroundings and mistakes, there is no dataset
+##### applications
+- robot walking
+- autonomous vehicles
+- playing Go games
+- **Policies** - maximize the total rewards at the end
+- recommendation systems
+##### is rl supervised or unsupervised
+- neither but shares characteristics of both
+- similar to supervised because there is a target or goal
+- similar to unsupervised because explicit goals are not given but forced to learn those optimal goals by trial and error
+- have to find a balance between exploiting and exploration
 
 
 
