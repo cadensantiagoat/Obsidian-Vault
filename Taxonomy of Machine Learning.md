@@ -15,7 +15,7 @@ updated: 09/01/2026, 17:35
 
 ###  Materials
 *(Drag and drop your PDF slides or syllabus below this line)*
-- 
+- ![[CPSC 483 - W02_pdf.pdf]]
 
 
 ---
