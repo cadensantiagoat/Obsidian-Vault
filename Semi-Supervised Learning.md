@@ -89,6 +89,12 @@ training a classification (or regression) model using both labeled and unlabeled
 - similar to supervised because there is a target or goal
 - similar to unsupervised because explicit goals are not given but forced to learn those optimal goals by trial and error
 - have to find a balance between exploiting and exploration
+#### <b><u>Other Categories of Machine Learning</u></b>
+##### Deep learning
+- a more focused version of ML and is not a separate learning paradigm
+	- a type of model or architecture people use a lot
+	- can be used with other methods like supervised, unsupervised, RL, 
+- idea is inspired by the human brain and how it works
 
 
 
