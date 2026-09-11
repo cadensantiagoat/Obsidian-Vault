@@ -55,7 +55,7 @@ training a classification (or regression) model using both labeled and unlabeled
 ##### Applications
 - Google photos uses facial recognition 
 - Creating transcripts from audio and labeling what that person said
-#### <b><u>Self-Supervised Learning</u></b>
+#### <b><u>Self-Supervised Learning (pseudo-labeling)</u></b>
 - starting with completely unlabeled data
 ##### pretext tasks
 - define a task based on the meaning
@@ -95,6 +95,71 @@ training a classification (or regression) model using both labeled and unlabeled
 	- a type of model or architecture people use a lot
 	- can be used with other methods like supervised, unsupervised, RL, 
 - idea is inspired by the human brain and how it works
+- many layers in between input and output layer
+	- "deep" refers to the depth of the middle layers
+- connections between neurons have a weight assigned to them which represents how important the connection is
+	- will pass information no matter what
+- bias helps neuron decide if they should pass information onto the next neuron
+##### Deep learning vs traditional machine learning
+- Traditional
+	- depends heavily on the data itself
+		- feature engineering
+			- manually deciding what features we want to use from an image
+		- ![[Pasted image 20260910175108.png]]
+- Deep learning
+	- needs a large amount of data
+	- high amounts of computational resources
+	- SHAP
+	- Salient map
+##### Transfer Learning
+- also inspired by the human brain
+- take a pre-trained model and use it for a similar task or a specific problem
+- learning process is smoother since you don't have to start from scratch
+- reduced amount of training data needed and reduced training time since you use a model that is trained already
+- can be common in neural networks
+- **Tuning** how we make our model perform better
+##### Batch Learning vs online learning
+- Batch Learning
+	- train entire model first then deploy
+	- usually offline
+	- collect a massive complete dataset
+	- have to retrain the entire model when you get a new dataset
+	- has to be retrained every once in awhile
+	- better when dataset is high quality and you have a smaller dataset
+- Online Learning (incremental)
+	- train, deploy, and update continuously
+	- continuous processing
+	- updates model itself
+	- better when you need it to adapt
+##### Transfer learning vs batch/online learning
+- Transfer learning 
+	- not a type of online learning
+	- not mutually exclusive categories
+	- focusses on where the model start
+- Online learning
+	- can make its own model along the way
+##### Ensemble Learning
+- combining predictions from multiple models to make our model better
+	- multiple models called weak learners
+- model works well because mistakes can be handled better, improving performance
+- big challenges 
+	- model integrity and compatibility
+	- computing resources
+#### <b><u>Choosing the Right ML Methods</u></b>
+- no one model works best 
+- look at type of data
+	- labels
+	- numbers
+	- classes
+- what are you trying to predict?
+	- labels, classes, associations
+- find best policy for actions
+	- reinforcement learning
+#### <b><u>ML-related Roles in the Industry</u></b>
+- data engineer
+- data scientist
+- AI architect
+- ML engineer
 
 
 
