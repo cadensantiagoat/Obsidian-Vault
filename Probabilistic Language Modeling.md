@@ -34,6 +34,9 @@ updated: 09/16/2026, 19:54
 - rank possible sentences
 - LLM based on this idea
 - us knowing grammar is us calculating the probability of the next words ourselves
+##### Example use of language models
+- googles auto complete
+- speech recognition
 
 
 ---
