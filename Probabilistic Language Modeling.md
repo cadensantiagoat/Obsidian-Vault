@@ -37,6 +37,11 @@ updated: 09/16/2026, 19:54
 ##### Example use of language models
 - googles auto complete
 - speech recognition
+#### <b><u>Markov Model</u></b>
+- looking at current state and recent states
+- user chooses how far in the past the states they want to observe
+	- going further back increases context window
+- 
 
 
 ---
