@@ -22,8 +22,9 @@ updated: 09/16/2026, 19:54
 
 ###  Notes
 #### <b><u>Language Model (LM)</u></b>
-- probability of words in a sentence or even sentences
+- calculating the probability of words in a sentence to generate sentences
 - can predict next words using joint and conditional probabilities
+- designed for generating sentence not necessarily understanding sentences
 ##### Predicting the Next Word with lm
 - compute the probability distribution of the next word
 - AI chooses words based on context or by highest probability word 
@@ -37,11 +38,31 @@ updated: 09/16/2026, 19:54
 ##### Example use of language models
 - googles auto complete
 - speech recognition
-#### <b><u>Markov Model</u></b>
+##### Markov Model
 - looking at current state and recent states
 - user chooses how far in the past the states they want to observe
 	- going further back increases context window
-- 
+- simplifies calculations of N gram models
+##### Dealing with Variable Length Text
+- first words are very important for context
+- special symbols for a sentence beginning
+##### Generating a n-gram sentence
+- calculate the conditional probabilities of certain words used together
+##### Using the probability of a sentence
+- bigram probabilities for P
+- reflects what's going on in the UC Berkeley campus
+#### <b><u>Smoothing Methods</u></b>
+##### intuition of smoothing
+- we lower the probabilities of the frequently used vocab and increase the probabilities of the vocab barely used
+- increase the chance of the barely used vocabulary by increasing it a little bit so that there is a chance the vocab is selected
+- smoothing only helps generating better sentences
+#### <b><u>Evaluation of Language Models</u></b>
+##### evaluation of n-gram models
+- performance metric for LM 
+	- perplexity which is inverse of geometric mean
+##### Geometric mean
+- arithmetic mean easily influenced by outliers
+- geometric mean more resistant to outliers
 
 
 ---
