@@ -21,7 +21,11 @@ updated: 09/18/2026, 14:01
 ---
 
 ###  Notes
-- 
+#### <b><u>Data Wrangling</u></b>
+- ex. US mens 10 and a UK mens 11
+	- have to convert one to another
+- work on data wrangling early on to make the tasks later on easier
+##### Core data wrangling methods
 
 
 ---
