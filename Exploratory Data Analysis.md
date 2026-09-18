@@ -54,10 +54,14 @@ updated: 09/18/2026, 14:00
 ##### Single variable visualization
 - numerical variable:
 	- histogram
-		- 
 	- box plot
 - categorical variable:
 	- bar graph
+##### The five-number summary
+- you can identify the invalid points
+##### Constructing boxplots
+- upper fence Q3 + 1.5*(IQR)
+- lower fence Q1 - 1.5*(IQR)
 
 
 ---
