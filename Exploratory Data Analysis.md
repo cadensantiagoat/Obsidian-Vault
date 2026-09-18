@@ -51,6 +51,13 @@ updated: 09/18/2026, 14:00
 - NA: not available
 - NaN: not a number
 - NaT: not a type
+##### Single variable visualization
+- numerical variable:
+	- histogram
+		- 
+	- box plot
+- categorical variable:
+	- bar graph
 
 
 ---
