@@ -42,6 +42,10 @@ updated: 09/22/2026, 17:33
 #### <b><u>Create a Test Set</u></b>
 ##### sampling
 - split data into to training set and testing set
+- Random sampling
+	- everybody has equal chances to be picked for training or testing
+- Stratified sampling
+	- define a group (strata) and pick the same proportions in each group
 
 
 ---
