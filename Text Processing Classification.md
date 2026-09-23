@@ -52,6 +52,7 @@ updated: 09/02/2026, 18:59
 	- also turns multiplication into addition
 - TF-IDF 
 	- balances term frequency and global importance
+	- good for document ranking, info retrieval, text classification
 	- ignores semantic so not good enough for word prediction or generation
 ##### Advantages and Limitations of Frequency-based Vectorization
 - high dimensional matrix
