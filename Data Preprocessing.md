@@ -46,6 +46,9 @@ updated: 09/22/2026, 17:33
 	- everybody has equal chances to be picked for training or testing
 - Stratified sampling
 	- define a group (strata) and pick the same proportions in each group
+##### cross validation
+- train-test split 
+	- 
 
 
 ---
