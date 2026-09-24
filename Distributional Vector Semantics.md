@@ -69,6 +69,16 @@ updated: 09/23/2026, 19:01
 	- meaning is given by the words that frequently appear close-by
 - Vector semantics
 	- word meaning is defined and represented in vector space
+- <b><u>Distributional Vector Semantics</u></b>
+- Embeddings (for dense vectors)
+	- useful information that you're trying to capture
+		- context
+		- meaning
+	- Distributed prediction-based embeddings
+		- Word2vec is the one we're focusing on
+- Example Word Embedding
+	- embedding vector captures the meaning of vocab
+
 
 
 ---

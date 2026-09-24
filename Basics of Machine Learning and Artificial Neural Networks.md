@@ -127,12 +127,20 @@ updated: 08/26/2026, 19:39
 #### <b><u>Supervised Learning for Regression</u></b>
 ##### Gradient Descent method
 - everything we do uses gradient descent
-![[Pasted image 20260902213030.png]]
+![[Pasted image 20260923205831.png]]
 #### <b><u>Artificial Neural Networks</u></b>
+- Perceptron: Learning the Weights
+	- every connection has a weight assigned
+	- ![[Pasted image 20260923204247.png]]
+- The Multilayer Perceptron (MLP)
+	- Typical architecture is a fully connected network
+	- forward pass in neural network is all about vector multiplication
+- MLP with Non-linear Activiation
+	- output is anything between 0 to 1 or -1 to 1
 ##### Popular activation functions
-- Sigmoid
+- 'Sigmoid
 	- ideal but takes too long
-- ReLU (most popular activation function)
+- ReLU - Rectified Linear Unit (most popular activation function)
 	- calculates max value
 	- default activation function in pytorch library
 #### <b><u>Training Artificial Neural Networks</u></b>
@@ -146,6 +154,7 @@ updated: 08/26/2026, 19:39
 3. Learn the model using:
 	- Gradient
 	- parameter update rule
+- Weight update rule
 #### <b><u>Backpropagation</u></b>
 - allows you to do very small incremental updates
 
