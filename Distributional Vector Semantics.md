@@ -59,6 +59,16 @@ updated: 09/23/2026, 19:01
 			- valence (happy, hate)
 			- arousal (crazy)
 			- dominance (powerful)
+#### <b><u>Better Models for Word Meaning</u></b>
+- Meaning by Linguistic Distribution
+	- defining a word through other words with related meanings
+- Meaning as a Point in Space
+	- each word corresponds to one vector
+#### <b><u>Computational Models of Word Meaning</u></b>
+- Distributional Semantics
+	- meaning is given by the words that frequently appear close-by
+- Vector semantics
+	- word meaning is defined and represented in vector space
 
 
 ---
