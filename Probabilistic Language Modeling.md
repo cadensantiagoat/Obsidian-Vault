@@ -43,6 +43,7 @@ updated: 09/16/2026, 19:54
 - user chooses how far in the past the states they want to observe
 	- going further back increases context window
 - simplifies calculations of N gram models
+- how we calculate the conditional probabilities
 ##### Dealing with Variable Length Text
 - first words are very important for context
 - special symbols for a sentence beginning
@@ -59,7 +60,10 @@ updated: 09/16/2026, 19:54
 #### <b><u>Evaluation of Language Models</u></b>
 ##### evaluation of n-gram models
 - performance metric for LM 
-	- perplexity which is inverse of geometric mean
+	- <u>perplexity</u> which is inverse of geometric mean
+		- main idea:
+			- higher entropy = higher uncertainty 
+			- lower entropy = better at predicting next word
 ##### Geometric mean
 - arithmetic mean easily influenced by outliers
 - geometric mean more resistant to outliers
