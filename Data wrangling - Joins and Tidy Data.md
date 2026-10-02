@@ -25,6 +25,7 @@ updated: 10/02/2026, 14:06
 - can only join if you have common variables
 - creates a brand new merged table
 - merge(left, right)
+	- picks the common value to do the merge
 - columns always start from the left table
 #####  4 types of joins
 1. Inner
