@@ -62,6 +62,10 @@ updated: 10/02/2026, 14:06
 	- value_vars: variables to reshape
 	- var_name: name of a new column to be created
 	- value_name: where we get the values for the new column created
+- NA values are not dropped by default
+	- can drop by adding
+		- .dropna(subset=[value_name]):
+- 
 
 
 
