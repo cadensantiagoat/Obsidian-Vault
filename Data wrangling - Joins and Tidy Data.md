@@ -44,6 +44,18 @@ updated: 10/02/2026, 14:06
 	- return all rows from the LEFT where there are matching values in RIGHT, keeping just columns from LEFT
 - Anti-join
 	- return all rows from LEFT where there are not matching values in RIGHT, keeping just columns from LEFT
+##### Data structure semantics
+- what makes a dataset tidy vs. untidy
+	- tidy
+		- more narrow but longer
+	- untidy
+		- wider but shorter
+#### <b><u>Tidy Data</u></b>
+1. Each variable forms a column
+2. Each observation forms a row
+3. Each type of observational unit (e.g. persons, schools, counties) forms a table
+##### Why tidy data?
+- adds consistency which makes our jobs easier in the future
 
 
 
