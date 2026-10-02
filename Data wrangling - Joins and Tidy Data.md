@@ -26,13 +26,15 @@ updated: 10/02/2026, 14:06
 - creates a brand new merged table
 - merge(left, right)
 	- picks the common value to do the merge
-- columns always start from the left table
+- columns always start from the left table even if you do a right join (MIDTERM QUESTION)
+	- left table column order will be picked up
 #####  4 types of joins
 1. Inner
 	- default join if not specified
 	- take everything from the left and match it from the right
 	- if present in both tables it goes into the new created table
-2. Outer
+2. Outer (full join)
+	- everything in both tables gets merged
 3. Left
 	- every entry from the left is included in the new table
 4. Right
@@ -43,7 +45,7 @@ updated: 10/02/2026, 14:06
 ---
 
 > [!question] Confusions & Questions
-> - 
+> - Midterm Question:  
 
 ### Action Items & Homework
 - [ ] 
