@@ -56,6 +56,12 @@ updated: 10/02/2026, 14:06
 3. Each type of observational unit (e.g. persons, schools, counties) forms a table
 ##### Why tidy data?
 - adds consistency which makes our jobs easier in the future
+##### Data tidying verbs: .melt()
+- Parameters to .melt():
+	- id_vars: what we want to keep as columns
+	- value_vars: variables to reshape
+	- var_name: name of a new column to be created
+	- value_name: where we get the values for the new column created
 
 
 
