@@ -15,6 +15,7 @@ updated: 09/24/2026, 17:37
 
 ###  Materials
 *(Drag and drop your PDF slides or syllabus below this line)*
+- ![[CPSC 483 - W06L01.pdf]]
 #### <b><u>Evaluating Models</u></b>
 - objective way to compare between models
 	- comparing them on the same task
