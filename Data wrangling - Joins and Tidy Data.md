@@ -41,7 +41,9 @@ updated: 10/02/2026, 14:06
 	- every entry on the right table is included in the new table
 ##### Filter join types
 - Semi-join
-	- 
+	- return all rows from the LEFT where there are matching values in RIGHT, keeping just columns from LEFT
+- Anti-join
+	- return all rows from LEFT where there are not matching values in RIGHT, keeping just columns from LEFT
 
 
 
