@@ -45,6 +45,11 @@ updated: 09/16/2026, 19:54
 	- going further back increases context window
 - simplifies calculations of N gram models
 - how we calculate the conditional probabilities
+- it's a shortcut to calculating conditional probabilities
+	- more accurate probability
+- sufficient means that you predict the future 100% of the time with the current/recent states
+##### Hidden Markov Model (hmm)
+- faster in certain situations
 ##### Dealing with Variable Length Text
 - first words are very important for context
 - special symbols for a sentence beginning
