@@ -25,6 +25,7 @@ updated: 09/16/2026, 19:54
 - calculating the probability of words in a sentence to generate sentences
 - can predict next words using joint and conditional probabilities
 - designed for generating sentence not necessarily understanding sentences
+- more universal
 ##### Predicting the Next Word with lm
 - compute the probability distribution of the next word
 - AI chooses words based on context or by highest probability word 
