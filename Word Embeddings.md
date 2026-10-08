@@ -36,6 +36,7 @@ updated: 09/23/2026, 21:07
 			- 
 - Self-Supervised Learning
 	- training dataset is already part of the dataset
+##### what's the reason for negative sampling
 
 
 ---
