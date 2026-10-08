@@ -41,7 +41,7 @@ updated: 09/23/2026, 21:07
 ---
 
 > [!question] Confusions & Questions
-> - 
+> - compare frequency based vectors and embedding vectors
 
 ### Action Items & Homework
 - [ ] 

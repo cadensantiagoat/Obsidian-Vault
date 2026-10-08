@@ -79,7 +79,7 @@ updated: 09/23/2026, 19:01
 - Example Word Embedding
 	- embedding vector captures the meaning of vocab
 
-
+DISTRIBUTIONAL VECTOR SEMANTICS IS THE KEY TO WORD MEANING
 
 ---
 
