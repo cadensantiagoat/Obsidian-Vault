@@ -50,11 +50,17 @@ updated: 09/16/2026, 19:54
 - sufficient means that you predict the future 100% of the time with the current/recent states
 ##### Hidden Markov Model (hmm)
 - faster in certain situations
+##### N-gram language model
+- not as accurate as markov model
 ##### Dealing with Variable Length Text
 - first words are very important for context
-- special symbols for a sentence beginning
+- special symbols for a sentence beginning and sentence ending
 ##### Generating a n-gram sentence
 - calculate the conditional probabilities of certain words used together
+##### N-gram LMs in Practice
+- method for selecting next word
+	- MLE (maximum likelihood estimation) to deal with data sparsity
+		- sentence would be very boring
 ##### Using the probability of a sentence
 - bigram probabilities for P
 - reflects what's going on in the UC Berkeley campus
