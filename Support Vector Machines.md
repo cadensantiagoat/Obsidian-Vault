@@ -24,7 +24,7 @@ updated: 10/13/2026, 17:39
 #### <b><u>Support Vector Machines (SVM)</u></b>
 - supervised machine learning method
 - performs both linear and nonlinear classification and regression
-##### Linear SVM classification
+#### <b><u>Linear SVM classification</u></b>
 - classify data by finding an optimal line (<u>hyperplane</u>) that maximizes the distance between each class
 - margin is the space between the classes
 ##### Hard margin classification
@@ -40,6 +40,17 @@ updated: 10/13/2026, 17:39
 - Hyperparameter C
 	- regularization parameter that controls the penalty for misclassification errors
 	- Increase C to decrease tolerance for breaking the margin
+#### <b><u>Nonlinear SVM Classification</u></b>
+##### polynomial features
+- mapping data to high dimension
+- same idea as polynomial regression
+- problems
+	- combinatorial explosion
+##### Kernel trick
+- we only need dot products in the transformed space
+- K(x,z) computes the dot products in higher dimensional feature spaces and calculates the entire thing rather than each feature one by one
+- 
+
 
 
 
