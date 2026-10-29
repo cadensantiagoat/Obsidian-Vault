@@ -32,6 +32,8 @@ updated: 10/28/2026, 19:13
 		- we actually generate sentence using the model at inference time
 - Cross attention vs. Self attention
 	- Cross attention
+- Positional Embeddings
+	- PE using the wave function
 		- 
 
 
