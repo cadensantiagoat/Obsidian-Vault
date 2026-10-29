@@ -25,6 +25,11 @@ updated: 10/28/2026, 19:13
 	- paying attention to one specific thing that is relevant
 	- when calculating attention score of a word it's comparing the word to another word
 		- comparing a pair of words
+- Teacher forcing vs auto regressive generation
+	- teacher forcing
+		- only for training a sequence model
+	- autoregressive generation
+		- we actually generate sentence using the model at inference time
 
 
 ---
