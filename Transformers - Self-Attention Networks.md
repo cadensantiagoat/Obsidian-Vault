@@ -21,7 +21,10 @@ updated: 10/28/2026, 19:13
 ---
 
 ###  Notes
-- 
+- Attention 
+	- paying attention to one specific thing that is relevant
+	- when calculating attention score of a word it's comparing the word to another word
+		- comparing a pair of words
 
 
 ---
