@@ -30,6 +30,9 @@ updated: 10/28/2026, 19:13
 		- only for training a sequence model
 	- autoregressive generation
 		- we actually generate sentence using the model at inference time
+- Cross attention vs. Self attention
+	- Cross attention
+		- 
 
 
 ---
