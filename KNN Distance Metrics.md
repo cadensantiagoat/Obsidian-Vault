@@ -24,11 +24,17 @@ updated: 11/06/2026, 14:04
 - similarity based metric/learning technique
 	- k -> # of neighbor
 	- nearest -> proximity dist. metric
+- uses majority voting
 0. Choose k
+	- even numbers are no good since they can end with a tie
+	- {3, 5, 7, ...} good numbers
+		- lower number is cheaper computationally
 1. Compute distance with all other neighbors
 	- choose dist. metric to compute
 2. Sort distances (ascending order)
-- y=mx+b
+3. Pick k nearest neighbors and choose their target values
+4. majority voting on the neighbors class
+- y=mx+c
 	- y -> output | future event
 	- x -> input | past event/data
 - distance metrics
