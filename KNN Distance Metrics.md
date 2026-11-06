@@ -24,6 +24,10 @@ updated: 11/06/2026, 14:04
 - similarity based metric/learning technique
 	- k -> # of neighbor
 	- nearest -> proximity dist. metric
+0. Choose k
+1. Compute distance with all other neighbors
+	- choose dist. metric to compute
+2. Sort distances (ascending order)
 - y=mx+b
 	- y -> output | future event
 	- x -> input | past event/data
@@ -32,6 +36,7 @@ updated: 11/06/2026, 14:04
 	- jaccard distance
 	- manhattan distance
 - knn has assumption that my closes neighbors know the most about me
+
 
 
 ---
