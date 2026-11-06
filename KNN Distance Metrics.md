@@ -34,6 +34,7 @@ updated: 11/06/2026, 14:04
 2. Sort distances (ascending order)
 3. Pick k nearest neighbors and choose their target values
 4. majority voting on the neighbors class
+5. majority class -> prediciton
 - y=mx+c
 	- y -> output | future event
 	- x -> input | past event/data
@@ -42,6 +43,10 @@ updated: 11/06/2026, 14:04
 	- jaccard distance
 	- manhattan distance
 - knn has assumption that my closes neighbors know the most about me
+- lazy learner
+- memorizes data during training but doesn't calculate distances until asked
+- advantages:
+	- simplest instance based model
 
 
 
