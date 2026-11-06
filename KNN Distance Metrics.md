@@ -22,6 +22,8 @@ updated: 11/06/2026, 14:04
 ###  Notes
 #### K-Nearest Neighbors
 - similarity based metric/learning technique
+	- k -> # of neighbor
+	- nearest -> proximity dist. metric
 - y=mx+b
 	- y -> output | future event
 	- x -> input | past event/data
@@ -29,6 +31,7 @@ updated: 11/06/2026, 14:04
 	- euclidean distance
 	- jaccard distance
 	- manhattan distance
+- knn has assumption that my closes neighbors know the most about me
 
 
 ---
